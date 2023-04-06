@@ -1,4 +1,4 @@
-## Hey there 👋, This is Vinay Kumar <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=vinayastar01.vinayastar01 />
+## Hey there 👋, This is Vinay Kumar <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=vinayastar01.vinayastar01" />
 
 ### 👨🏻‍💻 About Me
 <hr>
